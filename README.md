@@ -1,4 +1,5 @@
 # Micronaut-Kotlin-001-Hello-World
-Hello World with Micronaut
 
-
+<p align="center">
+    <img src="https://micronaut.io/images/micronaut_mini_copy_tm.svg" >	
+</p>
