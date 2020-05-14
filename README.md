@@ -8,3 +8,8 @@
 <p align="center">
     <img src="https://github.com/vicboma1/Micronaut-Kotlin-001-Hello-World/raw/master/assets/test.png" >	
 </p>
+<br>
+<br>
+<p align="center">
+    <img src="https://github.com/vicboma1/Micronaut-Kotlin-001-Hello-World/raw/master/assets/app.png" >	
+</p>
