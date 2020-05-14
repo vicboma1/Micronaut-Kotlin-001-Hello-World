@@ -1,5 +1,5 @@
 profile: service
-defaultPackage: micronaut.kotlin.hello.world
+defaultPackage: es.vicboma1.micronaut
 ---
-testFramework: kotlintest
+testFramework: spek
 sourceLanguage: kotlin
